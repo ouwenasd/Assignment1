@@ -1,5 +1,4 @@
 # name:               Ouwen Zha
-# ONE Card number:    1278820
 # Unix id:            ouwen
 # lecture section:    A1
 # instructor's name:  Abram Hindle
